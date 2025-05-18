@@ -1,4 +1,5 @@
-# ** Thyroid Cancer Risk Prediction System **
+# Thyroid Cancer Risk Prediction System 
+## ** Please make sure you are on our main branch to see our code **
 
 A Java-based machine-learning application that predicts thyroid cancer risk using a Random Forest classifier. The system ingests patient risk‑factor data from CSV, trains a robust model, and delivers real‑time risk predictions along with personalized health recommendations.
 
@@ -48,4 +49,3 @@ Fill in Age, Gender, Iodine Level, and checkboxes for Smoking, Obesity, Radiatio
 Click the Predict Risk button
 
 View the “Malignant” vs “Benign” classification and personalized recommendations in the text area.
-
