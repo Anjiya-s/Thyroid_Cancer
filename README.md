@@ -19,6 +19,7 @@ Intuitive desktop interface for data entry, batch import, and results display.
 Employs cross‑validated Random Forest (hyperparameter tuning) to achieve predictive performance.
 
 **Requirements**
+
 Java JDK 17 or higher
 
 Maven for build and dependency management
