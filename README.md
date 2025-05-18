@@ -28,7 +28,7 @@ Maven for build and dependency management
 
 Disk space for CSV datasets
 
-Installation
+_Installation_
 Clone the repository:
 
 git clone https://github.com/YourUsername/Thyroid_Cancer.git
